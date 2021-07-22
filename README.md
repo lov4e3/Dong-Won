@@ -1,4 +1,0 @@
-# Dong-Won
-Github
-
-Hi!
